@@ -38,59 +38,59 @@ header-includes:
 
 ## Установка git,gh. Базовая настройка git. Создание ssh ключа. (Выполнено в предыдущих лабораторных работах)
 
-![](image/pic1.png)
+![ssh github](image/pic1.png)
 
-## Создание pgp ключа.
+## Создание gpg ключа.
 
-![](image/pic2.png)
+![gpg --full-generate-key](image/pic2.png)
 
-## Добавление pgp ключа в github.
+## Добавление gpg ключа в github.
 
-![](image/pic3.png)
+![Копирование](image/pic3.png)
 
-## Добавление pgp ключа в github.
+## Добавление gpg ключа в github.
 
-![](image/pic4.png)
+![Копирование](image/pic4.png)
 
-## Добавление pgp ключа в github.
+## Добавление gpg ключа в github.
 
-![](image/pic5.png)
+![github gpg key](image/pic5.png)
 
 ## Настройка автоматических подписей коммитов git.
 
-![](image/pic6.png)
+![Настройка автомат. подписей](image/pic6.png)
 
 ## Настройка gh.
 
-![](image/pic7.png)
+![gh auth login](image/pic7.png)
 
 ## Настройка gh.
 
-![](image/pic8.png)
+![github авторизация](image/pic8.png)
 
 ## Создание репозитория курса на основае шаблона и настройка каталога курса.
 
-![](image/pic9.png)
+![Создание репозитория](image/pic9.png)
 
 ## Создание репозитория курса на основае шаблона и настройка каталога курса.
 
-![](image/pic10.png)
+![Клонирование](image/pic10.png)
 
 ## Создание репозитория курса на основае шаблона и настройка каталога курса.
 
-![](image/pic11.png)
+![Настройка каталога](image/pic11.png)
 
 ## Создание репозитория курса на основае шаблона и настройка каталога курса.
 
-![](image/pic12.png)
+![git add, git commit, git push](image/pic12.png)
 
 ## Создание репозитория курса на основае шаблона и настройка каталога курса.
 
-![](image/pic13.png)
+![git add, git commit, git push](image/pic13.png)
 
 ## Создание репозитория курса на основае шаблона и настройка каталога курса.
 
-![](image/pic14.png)
+![Получившийся репозиторий](image/pic14.png)
 
 
 # Вывод
